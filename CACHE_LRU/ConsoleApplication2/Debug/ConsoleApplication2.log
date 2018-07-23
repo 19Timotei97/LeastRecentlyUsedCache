@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\timi\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(92): warning C4018: '>': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\TIMI\Source\Repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
